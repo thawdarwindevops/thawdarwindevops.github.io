@@ -1,3 +1,6 @@
-# HTML Resume
+# Responsive Resume Cv ThawDarWin
 
-My Online HTML Resume Made With Material Design.
+### Responsive Resume Cv ThawDarWin
+
+Beautiful Responsive resume cv website 📄 using html, css and javascript. Light dark mode 🌗.
+
